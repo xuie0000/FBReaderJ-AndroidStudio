@@ -76,12 +76,12 @@
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/src/main/res/drawable-hdpi/ic_menu_none.png"
     },
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_add.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/src/main/res/drawable-hdpi/ic_menu_add.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-hdpi/ic_translate_pressed.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/src/main/res/drawable-hdpi/ic_translate_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_add.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/src/main/res/drawable-hdpi/ic_menu_add.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-hdpi/ic_close_pressed.png",

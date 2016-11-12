@@ -44,12 +44,12 @@
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_dark_edit.png"
     },
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/icon_dark_redo.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_dark_redo.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/icon_dark_info.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_dark_info.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/icon_dark_redo.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-mdpi-v4/icon_dark_redo.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/icon_light_save.png",

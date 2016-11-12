@@ -140,12 +140,12 @@
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/FBReaderJ-AndroidStudio/android-filechooser/unspecified/res/drawable-mdpi-v4/afc_file_disabled.png"
     },
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_light_exit.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/com.github.johnpersano/super-toasts/1.3.4/res/drawable-mdpi-v4/icon_light_exit.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-mdpi-v4/afc_folder.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/FBReaderJ-AndroidStudio/android-filechooser/unspecified/res/drawable-mdpi-v4/afc_folder.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_light_exit.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/com.github.johnpersano/super-toasts/1.3.4/res/drawable-mdpi-v4/icon_light_exit.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/drawable-mdpi-v4/afc_file_plain_text.png",

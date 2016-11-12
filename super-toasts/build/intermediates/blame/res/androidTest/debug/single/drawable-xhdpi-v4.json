@@ -4,12 +4,12 @@
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_info.png"
     },
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_save.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_save.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_redo.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_redo.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_save.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_save.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_light_edit.png",
@@ -48,12 +48,12 @@
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_light_undo.png"
     },
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_refresh.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_refresh.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_edit.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_edit.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_dark_refresh.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_dark_refresh.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_light_info.png",

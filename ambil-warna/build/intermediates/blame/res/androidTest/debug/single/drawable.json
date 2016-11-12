@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/res/merged/androidTest/debug/drawable/ambilwarna_arrow_right.png",
-        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/bundles/debug/res/drawable/ambilwarna_arrow_right.png"
-    },
-    {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/res/merged/androidTest/debug/drawable/ambilwarna_arrow_down.png",
         "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/bundles/debug/res/drawable/ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/res/merged/androidTest/debug/drawable/ambilwarna_arrow_right.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/bundles/debug/res/drawable/ambilwarna_arrow_right.png"
     },
     {
         "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/ambil-warna/build/intermediates/res/merged/androidTest/debug/drawable/ambilwarna_cursor.png",

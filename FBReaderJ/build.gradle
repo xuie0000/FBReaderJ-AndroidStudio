@@ -23,6 +23,7 @@ android {
 }
 
 dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
     compile project(':ambil-warna')
     compile project(':android-filechooser')
     compile project(':drag-sort-listview')
