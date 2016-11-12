@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_ok_saveas_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_ok_saveas_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_grid_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_grid_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_plain_text.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_plain_text.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_left.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_left.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_as_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_as_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_context_menu_item_divider.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_context_menu_item_divider.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_folder_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_folder_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_list_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_list_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_right_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_right_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_de_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_de_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_folder_locked.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_folder_locked.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_folder.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_folder.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_left_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_left_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_audio.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_audio.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_de_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_de_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_create_folder_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_create_folder_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_image.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_image.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_list.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_list.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_de.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_de.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_grid_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_grid_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_create_folder.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_create_folder.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_create_folder_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_create_folder_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_as.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_as.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_right.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_right.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_sort_as_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_sort_as_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_video.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_video.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_list_disabled.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_list_disabled.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_right_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_right_pressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_ok_saveas.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_ok_saveas.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_folders_view_grid.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_folders_view_grid.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_file_compressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_file_compressed.png"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/afc_button_navi_left_pressed.png",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/afc_button_navi_left_pressed.png"
+    }
+]

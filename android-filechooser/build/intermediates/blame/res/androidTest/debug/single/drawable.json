@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_item_file.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_item_file.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_button_location_dark_pressed.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_button_location_dark_pressed.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_folders_view_list.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_folders_view_list.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_navi_left.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_navi_left.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_create_folder.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_create_folder.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_location_dark.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_location_dark.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_item_folder.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_item_folder.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_folders_view_grid.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_folders_view_grid.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_ok_saveas.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_ok_saveas.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_sort_de.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_sort_de.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_sort_as.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_sort_as.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/res/merged/androidTest/debug/drawable/afc_selector_button_navi_right.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/android-filechooser/build/intermediates/bundles/debug/res/drawable/afc_selector_button_navi_right.xml"
+    }
+]

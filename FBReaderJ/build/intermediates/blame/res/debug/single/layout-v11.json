@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/FBReaderJ-AndroidStudio/android-filechooser/unspecified/res/layout-v11/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/res/merged/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/FBReaderJ/build/intermediates/exploded-aar/FBReaderJ-AndroidStudio/android-filechooser/unspecified/res/layout-v11/afc_file_chooser.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/src/main/assets"/><source path="/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/yf/workspace/app04-20160913/FBReaderJ-AndroidStudio/super-toasts/src/release/assets"/></dataSet></merger>
